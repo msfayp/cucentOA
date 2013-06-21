@@ -20,7 +20,8 @@ public partial class _Default : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         string postStr = "";
-
+        Response.Write("ssata");
+        return;
         //Test();//Debug模式使用，用来模拟微信发送的数据
         Valid();//校验签名
         if (Request.HttpMethod.ToLower() == "post")
