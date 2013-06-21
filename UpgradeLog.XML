@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WX">
+</Property><Property Name="解决方案文件" Value="D:\RES\work\NET微信API[新增event事件]\WX\WX.sln">
+</Property><Property Name="用户选项文件" Value="D:\RES\work\NET微信API[新增event事件]\WX\WX.suo">
+</Property><Property Name="Date" Value="2013年6月20日">
+</Property><Property Name="Time" Value="14:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WX.sln" Description="文件已成功备份为 D:\RES\work\NET微信API[新增event事件]\WX\Backup\WX.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WX.suo" Description="文件已成功备份为 D:\RES\work\NET微信API[新增event事件]\WX\Backup\WX.suo">
+</Event><Event ErrorLevel="1" Project="WX" Source="..\WX" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="" Source="WX.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="WX.sln" Description="Converted">
+</Event></UpgradeLog>

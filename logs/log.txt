@@ -1,0 +1,9 @@
+﻿
+一、微信签名认证：signature=；Token=CucentOA；timestamp=；nonce=；tmpStr=5e411da7745b3c73a88d200f822f8d096c66018f
+三、微信平台发送信息sendStr=感谢新的关注！
+一、微信签名认证：signature=；Token=CucentOA；timestamp=；nonce=；tmpStr=5e411da7745b3c73a88d200f822f8d096c66018f
+三、微信平台发送信息sendStr=感谢新的关注！
+一、微信签名认证：signature=；Token=CucentOA；timestamp=；nonce=；tmpStr=5e411da7745b3c73a88d200f822f8d096c66018f
+三、微信平台发送信息sendStr=感谢新的关注！
+一、微信签名认证：signature=；Token=CucentOA；timestamp=；nonce=；tmpStr=5e411da7745b3c73a88d200f822f8d096c66018f
+一、微信签名认证：signature=；Token=CucentOA；timestamp=；nonce=；tmpStr=5e411da7745b3c73a88d200f822f8d096c66018f
